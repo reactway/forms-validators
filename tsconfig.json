@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "strict": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "rootDir": "src",
+        "outDir": "dist",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        "noUnusedLocals": true,
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "skipLibCheck": true
+    },
+    "exclude": ["node_modules", "dist"]
+}
